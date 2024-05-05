@@ -11,13 +11,23 @@ bastente bien.
 
 - Faltaría mejorar algunos diagramas y las siguientes 2 paginas.
 
+	1.- llegada del vehiculo a la area de acceso
+	2.- Se detecta etiqueta RFID y se capturan las imagenes necesarias
+	3.- Procesamiento de imagen para extraer caracteres de la placa
+	4.- Validación de placa y etiqueta RFID en el software 
+	5.- El software analiza los posibles casos
+	6.- Toma de decición para permitir acceso o no
+	7.- Si sí tiene acceso barrera de ploqueo permite paso
+	8.- Si no tiene acceso barrera de bloqueo no permite el paso y avisa
+	    del error.
+
+
 Alcances ---------------------------------------------------------------
 
 Bueno Edgar le quito la parte del 90 %
 
 Estado del arte --------------------------------------------------------
-
-El profe nos pide incluir un análisis de los proyectos y comparativa
+Reconocimiento de matrículas: Esta tecnología permite que el sistema del estacionamiento identifique el vehículo del conductor y le otorgue acceso automáticamenteReconocimiento de ma.El profe nos pide incluir un análisis de los proyectos y comparativa
 a partir de trabajos ya encontrados
 
 - Actividad, buscar mas trabajos relacionados con eso
