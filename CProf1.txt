@@ -1,0 +1,28 @@
+
+Titulo
+
+Bueno Ya hicimos Correciones en el titulo en donde se le agrego la parte
+de inteligencia artificial
+
+Propuesta de Solución --------------------------------------------------
+
+Bueno se mejoro la primera pagina en conjunto con Edgar Yañez y quedo
+bastente bien.
+
+- Faltaría mejorar algunos diagramas y las siguientes 2 paginas.
+
+Alcances ---------------------------------------------------------------
+
+Bueno Edgar le quito la parte del 90 %
+
+Estado del arte --------------------------------------------------------
+
+El profe nos pide incluir un análisis de los proyectos y comparativa
+a partir de trabajos ya encontrados
+
+- Actividad, buscar mas trabajos relacionados con eso
+
+Marco teorico ----------------------------------------------------------
+No incluimos busqueda de dispositivos probables a utilizar, camaras
+detector de RFID, etc
+
