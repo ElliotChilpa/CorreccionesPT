@@ -21,6 +21,10 @@ bastente bien.
 	8.- Si no tiene acceso barrera de bloqueo no permite el paso y avisa
 	    del error.
 
+- Nota: En el segundo parrafo bajo la ilustración 2 anote que los datos seran comparados en un software
+
+- Nota: En el Ultimo Parrafo del usuario fijo hablamos sobre usuarios temporales, pero como ejemplo, no se yo si me gusta mucho.
+
 
 Alcances ---------------------------------------------------------------
 
